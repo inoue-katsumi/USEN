@@ -2,7 +2,7 @@
 
 usen_channels.csv
 
-List of most of USEN(yuusen) channel name  , band, channel#.
+List of most of USEN(yuusen,有線) channel name  , band, channel#.
 Created from PDF file downloadable on USEN official site.
 http://music.usen.com/pages/program/
 
