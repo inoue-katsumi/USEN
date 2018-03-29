@@ -12,3 +12,7 @@
 ## usen_channels_genre.csv
 
 * Same as above and this has genre column in addition.
+
+## usen_whatsplaying.sh
+
+* List all songs which were played on certain USEN channels filtered by user given string.
